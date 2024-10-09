@@ -1,6 +1,6 @@
 # Stopwatch Web Application
 
-![Stopwatch Screenshot](./screenshot.png) <!-- Add a screenshot of your app for better visualization -->
+![Stopwatch Screenshot](./public/screenshot.png) <!-- Add a screenshot of your app for better visualization -->
 
 ## Overview
 
