@@ -30,3 +30,13 @@ To get started with this project, follow these steps:
    ```bash
    git clone https://github.com/nil-official/SCT_WD_2.git
    cd SCT_WD_2
+
+2. Install the required dependencies:
+   ```bash
+   npm i
+
+3. Start the development server:
+   ```bash
+   npm run dev
+
+4. Open your browser and navigate to http://localhost:5173 to start using the stopwatch.
