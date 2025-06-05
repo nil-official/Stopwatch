@@ -1,6 +1,6 @@
 # Stopwatch Web Application
 
-![Stopwatch Screenshot](./screenshot.png) <!-- Add a screenshot of your app for better visualization -->
+![Stopwatch Screenshot](./public/screenshot.png)
 
 ## Overview
 
@@ -17,7 +17,6 @@ This Stopwatch Web Application is a modern, interactive tool designed for accura
 
 - **Frontend**: React.js
 - **Styling**: Tailwind CSS
-- **Additional Libraries**: Custom scrollbar styling for a refined look
 
 ## Live Demo
 
@@ -29,5 +28,15 @@ To get started with this project, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/stopwatch-app.git
-   cd stopwatch-app
+   git clone https://github.com/nil-official/SCT_WD_2.git
+   cd SCT_WD_2
+
+2. Install the required dependencies:
+   ```bash
+   npm i
+
+3. Start the development server:
+   ```bash
+   npm run dev
+
+4. Open your browser and navigate to http://localhost:5173 to start using the stopwatch.
